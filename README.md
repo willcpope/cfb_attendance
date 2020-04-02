@@ -5,7 +5,7 @@
 >
 > Sports Illustrated
 
-This survey and analysis is intended to help collegiate athletic directors determine what college football fans expectations.
+This survey and analysis is intended to help collegiate athletic directors determine college football fan expectations.
 
 ## Sample Size Demographics
 I personally designed the survey using Google Forms and collected responses from both LinkedIn and Reddit.
