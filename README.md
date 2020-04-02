@@ -10,14 +10,10 @@ This survey and analysis is intended to help collegiate athletic directors deter
 ## Sample Size Demographics
 I personally designed the survey using Google Forms and collected responses from both LinkedIn and Reddit.
 
-### Age
-
-### Gender
-
-### Favorite Team / Conference
-
-
-
+![Test Image 1](images/age.png)
+![Test Image 1](images/gender.png)
+![Test Image 1](images/conference.png)
+![Test Image 1](images/team.png)
 
 ## Findings
 ![Test Image 1](images/kickoff.png)
