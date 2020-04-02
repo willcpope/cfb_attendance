@@ -20,3 +20,4 @@ I personally designed the survey using Google Forms and collected responses from
 
 
 ## Findings
+![Test Image 1](images/kickoff.png)
