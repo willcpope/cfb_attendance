@@ -21,3 +21,6 @@ I personally designed the survey using Google Forms and collected responses from
 
 ## Findings
 ![Test Image 1](images/kickoff.png)
+![Test Image 1](images/stadium.png)
+![Test Image 1](images/location.png)
+![Test Image 1](images/features.png)
