@@ -20,3 +20,14 @@ I personally designed the survey using Google Forms and collected responses from
 ![Test Image 1](images/stadium.png)
 ![Test Image 1](images/location.png)
 ![Test Image 1](images/features.png)
+
+## Participant Comments
+The most common comment from participants, that was not included on the survey, was that games are too long and there are too many timeouts.
+
+## Progress
+- [x] Create Survey
+- [x] Data Collection
+- [x] Data Cleaning
+- [x] Data Analysis
+- [x] Data Visualization
+- [ ] Statistical Testing
