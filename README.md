@@ -1,5 +1,5 @@
 # College Football Attendance Survey
-This survey and exploratory analysis is intended to help identify important factors college football fans consider when deciding if they will watch a game at home or attend in-person.
+This survey and exploratory analysis is intended to help identify important factors college football fans consider when deciding if they attend a game or watch at home.
 
 **Sports Illustrated (2020)**
 > "From 2014 to ’18, attendance across the FBS fell by 7.6%. 
