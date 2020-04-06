@@ -3,9 +3,13 @@
 > "From 2014 to ’18, attendance across the FBS fell by 7.6%. Last year, on average, 41,856 fans went to games. That’s the 
 > lowest turnout since 1996."
 >
-> Sports Illustrated
+> Sports Illustrated (2020)
 
-This survey and analysis is intended to help collegiate athletic directors determine college football fan expectations.
+>Attendance for the seven games run by the College Football Playoff dropped to an all-time low this postseason, halfway >through the CFP's initial contract that created the New Year's Six games and the CFP National Championship. The attendance at >those seven games were down a cumulative 42,500 fans or 8 percent from a playoff-era high in 2015.
+> 
+> CBS Sports (2020)
+
+This survey and analysis is intended to help collegiate athletic directors and bowl executives determine college football fan expectations.
 
 ## Sample Size Demographics
 I personally designed the survey using Google Forms and collected responses from both LinkedIn and Reddit.
